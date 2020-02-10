@@ -16,7 +16,7 @@ class Clock extends Component {
       let dates =
         datetime.getDate() +
         " / " +
-        datetime.getMonth() +
+        (datetime.getMonth() + 1) +
         " / " +
         datetime.getFullYear();
       let times =
