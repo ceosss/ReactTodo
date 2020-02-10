@@ -1,0 +1,39 @@
+input[name="todoInput"] {
+  width: 60%;
+  background: wheat;
+  height: 50px;
+  border: none;
+  text-align: center;
+  font-size: 22px;
+  color: #a030f0;
+  font-weight: bold;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.formDiv {
+  width: 100%;
+  margin-top: 0px;
+  height: 51.2px;
+}
+
+::placeholder {
+  color: #a030f0;
+  font-weight: bold;
+}
+
+input[name="todoInput"]:active,
+input[name="todoInput"]:focus {
+  outline: none;
+}
+
+@media screen and (max-width: 800px) {
+  input[name="todoInput"] {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  input[name="todoInput"] {
+    width: 600px;
+  }
+}

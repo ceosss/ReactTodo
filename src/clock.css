@@ -1,0 +1,13 @@
+.date {
+  font-size: 20px;
+  font-weight: bold;
+  color: #7bed9f;
+  margin: 10px 0;
+}
+
+.time {
+  font-size: 35px;
+  font-weight: bold;
+  color: #7bed9f;
+  margin: 15px 0;
+}

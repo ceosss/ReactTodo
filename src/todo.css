@@ -1,0 +1,29 @@
+.work {
+  /* border: 2px solid red; */
+  font-size: 22px;
+  /* margin: 20px 0; */
+  font-weight: 600;
+  justify-content: center;
+  color: #353b48;
+}
+
+.work:hover {
+  cursor: pointer;
+}
+
+.workDiv {
+  border-bottom: 1px solid white;
+  height: auto;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  text-align: center;
+}
+p {
+  text-align: center;
+  width: 100%;
+}
+
+i {
+  margin-right: 15px;
+}
