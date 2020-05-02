@@ -1,5 +1,9 @@
 ## LIVE : https://bit.ly/3cQLwxa
 
+## Description
+
+Enter the task in the input box, press the enter button to add to the list. To remove a Todo from the list, just click on the todo you want to remove. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
